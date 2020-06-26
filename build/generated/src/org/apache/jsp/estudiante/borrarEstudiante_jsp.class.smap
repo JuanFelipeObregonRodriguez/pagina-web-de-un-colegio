@@ -1,0 +1,12 @@
+SMAP
+borrarEstudiante_jsp.java
+JSP
+*S JSP
+*F
++ 0 borrarEstudiante.jsp
+estudiante/borrarEstudiante.jsp
+*L
+5,6:45
+10,4:50
+13:54
+*E
